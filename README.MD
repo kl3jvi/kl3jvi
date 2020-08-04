@@ -42,7 +42,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kl3jvi&show_icons=true&hide_border=true" />
 
-[website]: https://klejvi.me
+[website]: http://klejvi.me
 [twitter]: https://twitter.com/kl3jvi
 [youtube]: https://youtube.com/kl3jvi
 [instagram]: https://instagram.com/kl3jvi
