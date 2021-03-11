@@ -2,11 +2,11 @@
 
 ## I'm a full-stack Developer!
 
-- 🔭 I’m currently working on a new Anime App!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on a new Download Manager App!
+- 🌱 I’m currently learning C++ 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love cats
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love _Android_ Development way more than web development
 
 ### Connect with me:
 
