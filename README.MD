@@ -1,6 +1,7 @@
 ### Hi there, I'm Klejvi - aka [kl3jvi][website] 👋
 
-## I'm a full-stack Developer!![](https://komarev.com/ghpvc/?username=kl3jvi)
+## I'm a full-stack Developer!<br/>
+![](https://komarev.com/ghpvc/?username=kl3jvi)
 
 - 🔭 I’m currently working on a new Download Manager App!
 - 🌱 I’m currently learning C# 🤩
