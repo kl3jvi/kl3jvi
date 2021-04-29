@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C# 🤩
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love _Android_ Development way more than web development<br/>
+- ⚡ Fun fact: I love _Android_ Development way more than web development<br/><br/>
 ![](https://komarev.com/ghpvc/?username=kl3jvi&color=brightgreen)
 
 ### Connect with me:
