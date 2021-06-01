@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love _Android_ Development way more than web development<br/><br/>
 ![](https://komarev.com/ghpvc/?username=kl3jvi&color=brightgreen)
 
-<img src='https://www.codewars.com/users/911mateo911/badges/large' />
+<img src='https://www.codewars.com/users/kl3jvi/badges/small' />
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
