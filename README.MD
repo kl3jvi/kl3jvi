@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a recipe app illustrating Android Dev best practices!
 - 🌱 I’m currently learning Android Jetpack -📱
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Android Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love _Android_ Development way more than web development<br/><br/>
 ![](https://komarev.com/ghpvc/?username=kl3jvi&color=brightgreen)
