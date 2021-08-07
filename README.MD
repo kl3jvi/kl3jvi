@@ -2,7 +2,7 @@
 
 ## I'm an ANDROID DEVELOPER!
 
-- 🔭 I’m currently working on a recipe app illustrating Android Dev best practices!
+- 🔭 I’m currently working on a pomodoro android app!
 - 🌱 I’m currently learning Android Jetpack -📱
 - 👯 I’m looking to collaborate with other Android Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
