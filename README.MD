@@ -3,9 +3,9 @@
 ## I'm an ANDROID DEVELOPER!
 
 - 🔭 I’m currently working on a 16 bit linux multithreading kernel!
-- 🌱 I’m currently learning Android Jetpack -📱
-- 👯 I’m looking to collaborate with other Android Developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Linux Kernel Development -📱
+- 👯 I’m looking to build my own startup with other Android Developers
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I use white themed IDEs<br/><br/>
 ![](https://komarev.com/ghpvc/?username=kl3jvi&color=brightgreen)
 
