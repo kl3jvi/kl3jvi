@@ -3,7 +3,7 @@
 
 #### Who am I?
 
-Hey there! I'm Klejvi, and I'm a software engineer. I've been coding since 2017 and I love it not only because it makes me feel smarter and makes me happy, but also because it gives me the opportunity to really dive deep into a subject and to make sure I understand it.
+Hey there! My name is Klejvi Kapaj. I am an Android Developer from Albania. I am well experienced in many languages like: Java, Kotlin,C, C++ aswell as using frameworks like Ionic 5 , Angular and Flutter. I love building native android apps , experimenting with low level languages and hardware!
 
 ![Kl3jvi](https://komarev.com/ghpvc/?username=kl3jvi&color=brightgreen)
 
