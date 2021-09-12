@@ -32,8 +32,7 @@
   <a href="https://www.android.com/" target="_blank"><img title="GitHub" height="25" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></a>
   <a href="#" target="_blank"><img title="Terminal" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>
    <a href="https://www.typescriptlang.org/" target="_blank"><img title="Typescript" height="25" src="https://user-images.githubusercontent.com/74051388/115267781-3d1a9d80-a142-11eb-95ce-814b8d9e9df5.png"></a>
-  <a href="https://www.angular.org/" target="_blank"><img title="Angular" height="25" src="
-  https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
+  <a href="https://www.angular.org/" target="_blank"><img title="Angular" height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></a>
   
 </p>
 <br />
