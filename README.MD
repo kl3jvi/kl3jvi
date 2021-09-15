@@ -12,6 +12,15 @@ Hey there! My name is Klejvi Kapaj. I am an Android Developer from Albania. I am
 
 You are **100%** free to use my projects for whatever you want! But also remember to do some research on the packages/dependencies I use, because some of those might contain some legal information in terms of usage.
 
+#### Technologies and Tools I use:
+![Android Dev](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 #### Social Media
 You can find me in all these places:
 
