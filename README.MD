@@ -6,6 +6,7 @@
 Hey there! My name is Klejvi Kapaj. I am an Android Developer from Albania. I am well experienced in many languages like: Java, Kotlin,C, C++ aswell as using frameworks like Ionic 5 , Angular and Flutter. I love building native android apps and interacting with hardware from a software perspective!
 
 ![Kl3jvi](https://komarev.com/ghpvc/?username=kl3jvi&color=brightgreen)
+![Codewars](https://www.codewars.com/users/kl3jvi/badges/micro)
 
 #### Can I use your code for my own projects? 🖋️
 
