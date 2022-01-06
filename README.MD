@@ -36,5 +36,5 @@ You can find me in all these places:
 <p align="center">
   <img height=175 src = "https://github-readme-stats.vercel.app/api?username=kl3jvi&show_icons=true">
   <img height=175 src = "https://github-readme-stats.vercel.app/api/top-langs?username=kl3jvi&show_icons=true&locale=en&layout=compact&hide=css,scss,pug,php" alt="kl3jvi" />
-  <img src="https://api.daily.dev/devcards/8468cfd82ea442689b420a1b926f8d17.png?r=use" width="400" alt="Klejvi Kapaj's Dev Card"/>
+<!--   <img src="https://api.daily.dev/devcards/8468cfd82ea442689b420a1b926f8d17.png?r=use" width="400" alt="Klejvi Kapaj's Dev Card"/> -->
 </p>
