@@ -3,7 +3,7 @@
 
 #### Who am I?
 
-Hey there! My name is Klejvi Kapaj. I am an Android Developer from Albania. I am well experienced in many languages like: Java, Kotlin,C and some C++. I love building native android apps and interacting with hardware from a software perspective!
+Hey there! My name is Klejvi Kapaj. I am an Android Developer from Albania. I am well experienced in many languages like: Kotlin, Java, C and some C++. I love building native android apps and interacting with hardware from a software perspective!
 
 ![Kl3jvi](https://komarev.com/ghpvc/?username=kl3jvi&color=brightgreen)
 ![Codewars](https://www.codewars.com/users/kl3jvi/badges/micro)
