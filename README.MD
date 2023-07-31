@@ -29,8 +29,8 @@ Feel free to use my projects for your needs! Just remember to look into the lega
 
 <p align="center">
   <div style="display: flex; justify-content: space-between;">
-    <img height=175 src = "https://github-readme-stats.vercel.app/api?username=kl3jvi&show_icons=true" style="width: 50%;">
-    <img height=175 src = "https://github-readme-stats.vercel.app/api/top-langs?username=kl3jvi&show_icons=true&locale=en&layout=compact&hide=css,scss,pug,php" alt="kl3jvi" style="width: 50%;">
+    <img src = "https://github-readme-stats.vercel.app/api?username=kl3jvi&show_icons=true" style="width: 50%;">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=kl3jvi&show_icons=true&locale=en&layout=compact&hide=css,scss,pug,php" alt="kl3jvi" style="width: 50%;">
   </div>
 </p>
 
