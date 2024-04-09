@@ -2,7 +2,7 @@
 
 #### Welcome to my corner of GitHub :octocat:
 
-I'm Klejvi Kapaj, a seasoned Android Developer from Albania with over 6 years of experience in the field. I'm a huge fan of Kotlin and C++, and have recently been exploring the Rust language. I'm also passionate about low-level languages and love to get hands-on with hardware. 
+I'm Klejvi Kapaj, a seasoned Software Developer from Albania with over 6 years of experience in the field. I'm a huge fan of Kotlin and C++, and have recently been exploring the Rust language. I'm also passionate about low-level languages and love to get hands-on with hardware. 
 
 ![Kl3jvi](https://komarev.com/ghpvc/?username=kl3jvi&color=brightgreen)
 ![Codewars](https://www.codewars.com/users/kl3jvi/badges/micro)
